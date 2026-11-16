@@ -6,6 +6,6 @@ import HomePage from '@/components/HomePage.vue';
 
 <template>
   <main>
-    <HomePage />
+    <HomePage display-string="Hello" />
   </main>
 </template>
